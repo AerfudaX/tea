@@ -24,9 +24,8 @@ THE SOFTWARE.
 License of media (textures):
 ----------------------------
 Created by AerfudaX :
-coneminetest.png
-Icecreambanana.png
-Icecreamchocolate.png
-Icecreammatcha.png
-Icecreamstrawberry.png
-Icecreamvanilla.png
+CrushedgreenTea.png
+GreenTeaCup.png
+GreenTealeaves.png
+TeaGreenBushBlock.png
+TeaGreenSapling.png
